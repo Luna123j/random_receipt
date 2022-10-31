@@ -73,10 +73,21 @@ WSGI_APPLICATION = 'random_recipes.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'random_recipes',
+        'USER': 'postgres',
+        'PASSWORD': 'labber',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
 
