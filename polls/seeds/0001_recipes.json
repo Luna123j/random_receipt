@@ -16,7 +16,7 @@
 
   {
     "model": "polls.recipe",
-    "pk": 1,
+    "pk": 2,
     "fields": {
       "name": "hambuger",
       "ingredient1": "ham" , 
@@ -31,7 +31,7 @@
 
   {
     "model": "polls.recipe",
-    "pk": 1,
+    "pk": 3,
     "fields": {
       "name": "fried chicken",
       "ingredient1": "chicked" , 
