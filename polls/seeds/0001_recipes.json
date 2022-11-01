@@ -10,7 +10,7 @@
       "ingredient4": "mayo", 
       "ingredient5": "", 
       "ingredient6": "", 
-      "instruction": ""
+      "instruction": "just do it"
     }
   },
 
@@ -25,7 +25,7 @@
       "ingredient4": "ketchup", 
       "ingredient5": "", 
       "ingredient6": "", 
-      "instruction": ""
+      "instruction": "have a brain"
     }
   },
 
@@ -34,43 +34,13 @@
     "pk": 1,
     "fields": {
       "name": "fried chicken",
-      "ingredient1": "ham" , 
-      "ingredient2": "lettuce", 
-      "ingredient3": "egg", 
-      "ingredient4": "mayo", 
+      "ingredient1": "chicked" , 
+      "ingredient2": "oil", 
+      "ingredient3": "flour", 
+      "ingredient4": "black pepper", 
       "ingredient5": "", 
       "ingredient6": "", 
-      "instruction": ""
-    }
-  },
-
-  {
-    "model": "polls.recipe",
-    "pk": 1,
-    "fields": {
-      "name": "sandwich",
-      "ingredient1": "ham" , 
-      "ingredient2": "lettuce", 
-      "ingredient3": "egg", 
-      "ingredient4": "mayo", 
-      "ingredient5": "", 
-      "ingredient6": "", 
-      "instruction": ""
-    }
-  },
-
-  {
-    "model": "polls.recipe",
-    "pk": 1,
-    "fields": {
-      "name": "sandwich",
-      "ingredient1": "ham" , 
-      "ingredient2": "lettuce", 
-      "ingredient3": "egg", 
-      "ingredient4": "mayo", 
-      "ingredient5": "", 
-      "ingredient6": "", 
-      "instruction": ""
+      "instruction": "put it in"
     }
   }
 ]
