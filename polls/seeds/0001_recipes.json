@@ -1,0 +1,76 @@
+[
+  {
+    "model": "polls.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "sandwich",
+      "ingredient1": "ham" , 
+      "ingredient2": "lettuce", 
+      "ingredient3": "egg", 
+      "ingredient4": "mayo", 
+      "ingredient5": "", 
+      "ingredient6": "", 
+      "instruction": ""
+    }
+  },
+
+  {
+    "model": "polls.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "hambuger",
+      "ingredient1": "ham" , 
+      "ingredient2": "lettuce", 
+      "ingredient3": "egg", 
+      "ingredient4": "ketchup", 
+      "ingredient5": "", 
+      "ingredient6": "", 
+      "instruction": ""
+    }
+  },
+
+  {
+    "model": "polls.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "fried chicken",
+      "ingredient1": "ham" , 
+      "ingredient2": "lettuce", 
+      "ingredient3": "egg", 
+      "ingredient4": "mayo", 
+      "ingredient5": "", 
+      "ingredient6": "", 
+      "instruction": ""
+    }
+  },
+
+  {
+    "model": "polls.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "sandwich",
+      "ingredient1": "ham" , 
+      "ingredient2": "lettuce", 
+      "ingredient3": "egg", 
+      "ingredient4": "mayo", 
+      "ingredient5": "", 
+      "ingredient6": "", 
+      "instruction": ""
+    }
+  },
+
+  {
+    "model": "polls.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "sandwich",
+      "ingredient1": "ham" , 
+      "ingredient2": "lettuce", 
+      "ingredient3": "egg", 
+      "ingredient4": "mayo", 
+      "ingredient5": "", 
+      "ingredient6": "", 
+      "instruction": ""
+    }
+  }
+]
